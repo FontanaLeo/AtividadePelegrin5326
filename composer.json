@@ -5,5 +5,8 @@
             "Leonardo\\AtividadePelegrin5326\\": "src/"
         }
     },
-    "require": {}
+    "require": {
+        "aura/router": "^3.4",
+        "aura/di": "^5.0"
+    }
 }
