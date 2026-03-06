@@ -1,0 +1,15 @@
+{
+    "name": "leonardo/atividade-pelegrin53262.0",
+    "autoload": {
+        "psr-4": {
+            "Leonardo\\AtividadePelegrin532620\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Leonardo Fontana",
+            "email": "lerfontan@gmail.com"
+        }
+    ],
+    "require": {}
+}
