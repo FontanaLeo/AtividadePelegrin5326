@@ -1,0 +1,9 @@
+{
+    "name": "leonardo/atividade-pelegrin5326",
+    "autoload": {
+        "psr-4": {
+            "Leonardo\\AtividadePelegrin5326\\": "src/"
+        }
+    },
+    "require": {}
+}
