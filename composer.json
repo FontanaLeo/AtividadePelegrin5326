@@ -1,15 +1,14 @@
 {
-    "name": "leonardo/atividade-pelegrin53262.0",
+    "name": "leonardo/atividade-pelegrin5326",
     "autoload": {
         "psr-4": {
-            "Leonardo\\AtividadePelegrin532620\\": "src/"
+            "App\\": "src/"
         }
     },
-    "authors": [
-        {
-            "name": "Leonardo Fontana",
-            "email": "lerfontan@gmail.com"
-        }
-    ],
-    "require": {}
+    "require": {
+        "aura/router": "^3.4",
+        "aura/di": "^5.0",
+        "symfony/http-foundation": "^6.0",
+        "laminas/laminas-diactoros": "^3.0"
+    }
 }
